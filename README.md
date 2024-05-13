@@ -7,3 +7,5 @@
 
 ![image](https://github.com/ChiufungLee/Countdown-Tool/assets/52339200/1917c554-1531-41be-8c24-f03bfb367e1f)
 
+此项目基于[@李小沐-countdown](https://github.com/lixiaomuicon/countdown) 而作改进。
+
